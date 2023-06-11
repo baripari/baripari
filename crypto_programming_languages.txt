@@ -1,0 +1,16 @@
+Top 15 Programming Languages for Blockchain Development
+CX
+Rholang
+Erlang
+SQL
+Rust
+Ruby
+Simplicity
+Go
+C#
+C++
+PHP
+JavaScript
+Python
+Java
+Solidity
